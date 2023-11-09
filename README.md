@@ -8,7 +8,7 @@ The hardware design files of USB to LoRa Dongle are available on this GitHub.
 
 ### Repository Contents:
   - [/Design Data](https://github.com/sbcshop/Usb_To_LoRa_Dongle_Hardware/tree/main/Design%20Files) - This directory contains Schematic, Top and Bottom View
-  - [/Mechanical Data](https://github.com/sbcshop/Usb_To_LoRa_Dongle_Hardware/tree/main/Mechanical%20Data) - This directory contains 3D, dimension and step files.
+  - [/Mechanical Data](https://github.com/sbcshop/Usb_To_LoRa_Dongle_Hardware/tree/main/Mechanical%20Data) - This directory contains dimension and step files.
   - [Getting Started Guide](https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software) - This repo contains Getting Started guide for USB to LoRa Dongle.
 
 ## Related Products
